@@ -1,5 +1,4 @@
-# ModernPythonTools
-
+# Modern Python
 
 This project lists downs all the tools that a modern python project should use:
 
@@ -36,3 +35,12 @@ This project lists downs all the tools that a modern python project should use:
 
 ## Cloud mock
 -   [mock AWS service on your laptop ](https://localstack.cloud)
+
+## WebAPI testing (online)
+-   [Make your local web server avaible on internet ](https://ngrok.com/) 
+
+## Podman desktop
+-   [Run containers / Kubernetes](https://podman-desktop.io/)
+
+## API development
+-   [API development with OpenAPI specification](https://swagger.io/)

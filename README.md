@@ -46,4 +46,4 @@ This project lists downs all the tools that a modern python project should use:
 -   [API development with OpenAPI specification](https://swagger.io/)
 
 ## Load testing
--   [Load testing] (https://locust.io)
+-   [Load testing](https://locust.io)

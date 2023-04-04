@@ -47,3 +47,6 @@ This project lists downs all the tools that a modern python project should use:
 
 ## Load testing
 -   [Load testing](https://locust.io)
+
+## Creating virtual machines on macOS
+-   [lima VM](https://lima-vm.io/)
